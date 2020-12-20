@@ -8,3 +8,5 @@ change the hyper_perameter for the corresponding data,ie.dataset name, class num
 run train.py
 
 When training is completing, run evaluate.py to test the network.
+
+Further information is on the way
